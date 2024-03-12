@@ -1,4 +1,7 @@
-Before you start click the README.md file above then
+Name Check:
+Steven Ho
+
+Before you start click the README.md file above then (when opened in github)
 To make this easier to look at and follow click code instead of preview above
 
 To begin with if you are using github for the first time here are some steps I would recommend.
