@@ -2,7 +2,8 @@ Name Check:
 Steven Ho,
 Alex Souv,
 Angelo Ventura,
-Henry Kong
+Henry Kong,
+Jonathan Medrano
 
 Before you start click the README.md file above then (when opened in github)
 To make this easier to look at and follow click code instead of preview above
