@@ -4,7 +4,7 @@ Alex Souv,
 Angelo Ventura,
 Henry Kong,
 Jonathan Medrano,
-Kevin Wong
+Kevin Wong,
 Danny Phan
 
 Before you start click the README.md file above then (when opened in github)
