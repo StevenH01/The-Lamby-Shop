@@ -5,6 +5,7 @@ Angelo Ventura,
 Henry Kong,
 Jonathan Medrano,
 Kevin Wong
+Danny Phan
 
 Before you start click the README.md file above then (when opened in github)
 To make this easier to look at and follow click code instead of preview above
