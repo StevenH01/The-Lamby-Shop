@@ -35,7 +35,7 @@ After you have everything installed and good to go
 -Find "Terminal"
 -click "New Terminal"
 -in the terminal you type
-  -git clone <https://github.com/StevenH01/senior-project>
+  -git clone https://github.com/StevenH01/The-Lamby-Shop
   -exact command is above^
 
 You should be done from here
